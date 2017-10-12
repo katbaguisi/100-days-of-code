@@ -15,3 +15,11 @@
 **Thoughts:** I really need to put on a timer while working. It seems like I worked more than an hour on this project. I also have to think about the design as well. 
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 2: October 12, 2017
+
+**Today's Progress**: Worked mostly on design and graphics. Was able to create a better signup page with some animations but still have to figure out how to pass data to and from view controllers. Getting a better grasp on PFQueries :)
+
+**Thoughts:** Worked for 3 hours until XCode crashes. Good thing I used a timer this time. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
