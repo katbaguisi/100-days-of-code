@@ -23,3 +23,11 @@
 **Thoughts:** Worked for 3 hours until XCode crashes. Good thing I used a timer this time. 
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 3: October 13, 2017
+
+**Today's Progress**: Finished signup and login view controllers. Learned how to call the camera and photo library. Also learned a little bit about gestures but can't really implement it in the app, maybe later? Also, created some graphics for the zodiac signs and learned how to use UIDatePicker.
+
+**Thoughts:** Worked for more than 6 hours (stopped counting after 4 hours) since it's the weekend :)
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
