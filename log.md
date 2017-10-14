@@ -31,3 +31,11 @@
 **Thoughts:** Worked for more than 6 hours (stopped counting after 4 hours) since it's the weekend :)
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 4: October 14, 2017
+
+**Today's Progress**: Finished the settings page, which took me awhile to finish. I was able to make a function to crop the profile photo. Learned to use PFGeopoint to determin location. Also, removed any kind of error that may take place while signing up and logging in. Tomorrow I have to figure out how to fix the UIActivityIndicatorView while saving user info AND start with showing the matches. 
+
+**Thoughts:** Worked again for more than 6 hours but there is a significant progress today :)
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
