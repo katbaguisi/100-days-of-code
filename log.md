@@ -39,3 +39,11 @@
 **Thoughts:** Worked again for more than 6 hours but there is a significant progress today :)
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 5: October 15, 2017
+
+**Today's Progress**: Populated user list for more than 2 hours. Finished the main view controller with the compatibility calculator :)
+
+**Thoughts:** Another significant progress today despite the distractions (ahem, netflix).
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
