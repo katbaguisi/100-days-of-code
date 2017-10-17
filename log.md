@@ -55,3 +55,11 @@
 **Thoughts:** Little progress today because I was distracted by depression. 
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 7: October 17, 2017
+
+**Today's Progress**: Done with the first view controller of the messaging part of this app. Only one more part left to code, which is the messenger and then I can polish the design and also add ads.
+
+**Thoughts:** Once again, little progress because of distractions but little by little I'll get there. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
