@@ -47,3 +47,11 @@
 **Thoughts:** Another significant progress today despite the distractions (ahem, netflix).
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 6: October 16, 2017
+
+**Today's Progress**: Was able to somehow fix the UIView in the main controller after the gestures end. Also struggled a bit on creating  a text messenger within the app. 
+
+**Thoughts:** Little progress today because I was distracted by depression. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
