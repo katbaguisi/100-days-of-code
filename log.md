@@ -63,3 +63,11 @@
 **Thoughts:** Once again, little progress because of distractions but little by little I'll get there. 
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 8: October 18, 2017
+
+**Today's Progress**: Messaging part of the app is working but not perfect! It looks weird but it already looks like a messenger anyway lol
+
+**Thoughts:** I have to be extra patient with myself and think of a solution. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
