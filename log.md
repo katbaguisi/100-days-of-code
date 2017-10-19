@@ -71,3 +71,12 @@
 **Thoughts:** I have to be extra patient with myself and think of a solution. 
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 9: October 19, 2017
+
+**Today's Progress**: Was able to fix the messaging part, both users' messages appear now (after getting an answer from stackoverflow) but not in chronological order TT. Thought of creating another feature instead of messenger. 
+
+**Thoughts:** I don't think I'm better than yesterday. I really have to pick up my pace so I can work on many other projects.
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
