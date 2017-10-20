@@ -80,3 +80,12 @@
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
 
+### Day 10: October 20, 2017
+
+**Today's Progress**: Still couldn't make the messenger to work fine. Looked for frameworks to use instead but also struggled to implement them :(
+
+**Thoughts:** Once again, no progress today but it's ok, I shouldn't get discouraged.
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+
