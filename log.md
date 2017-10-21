@@ -89,3 +89,10 @@
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
 
 
+### Day 11: October 21, 2017
+
+**Today's Progress**: Tried to learn and understand Chatto, the framework I chose to build a messenger within my app. For some reason, my app crashes at some point where it usually works. So yeah, I guess I have to run through the code once again. 
+
+**Thoughts:** At this point, I have to be patient with myself and always remember that this is part of the learning curve.
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
