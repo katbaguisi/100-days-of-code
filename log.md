@@ -96,3 +96,20 @@
 **Thoughts:** At this point, I have to be patient with myself and always remember that this is part of the learning curve.
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 12: October 22, 2017
+
+**Today's Progress**: Started everything from scratch again but this time with better design and interaction in mind (a friend told me it's not attractive lol also because the app crashes a lot. Searched and installed several frameworks, hoping they will save me a lot of time as well as learn more about Swift. 
+
+**Thoughts:** As much as I hate myself for dragging this project longer than I intended to, I proved that I am very patient though.
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 13: October 23, 2017
+
+**Today's Progress**: Learned how to scrape a website without any video tutorials and limited resources! Even though I wasn't able to make it work as I originally planned, it still loks good on my app (I can make improvements later on). 
+
+**Thoughts:** New learnings today so I'm satisfied :)
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
