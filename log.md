@@ -113,3 +113,18 @@
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
 
+### Day 14: October 24, 2017
+
+**Today's Progress**: Tried to integrate Koloda into my app to create that tinder-swipe effect. Also finished the first unit of python course from rmotr.com.
+
+**Thoughts:** Learned new stuff today too until my laptop died.
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 15: October 25, 2017
+
+**Today's Progress**: Still having problems fetching data from parse to show on my app.
+
+**Thoughts:** Patience...patience...patience...I'll be able to complete this for sure!
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
