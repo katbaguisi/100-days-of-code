@@ -128,3 +128,11 @@
 **Thoughts:** Patience...patience...patience...I'll be able to complete this for sure!
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 16: October 26, 2017
+
+**Today's Progress**: Done with the swiping view (only have to work on the matching logic thing). Almost done with the messaging part! 
+
+**Thoughts:** Very happy with the significant progress I made today. I just have to keep my focus on this project to get it done soon!
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
