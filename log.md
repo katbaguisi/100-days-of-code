@@ -136,3 +136,27 @@
 **Thoughts:** Very happy with the significant progress I made today. I just have to keep my focus on this project to get it done soon!
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 17: October 27, 2017
+
+**Today's Progress**: Just little progress with layout and graphics. Couldn't figure out how to load and retieve messages from Parse backend.
+
+**Thoughts:** A little bit frustrated today.
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 18: October 28, 2017
+
+**Today's Progress**: Tried Firebase for the messaging backend.
+
+**Thoughts:** A little bit overwhelmed with new stuff to learn but still it's fun. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 19: October 29, 2017
+
+**Today's Progress**: Finally able to fetch data from Firebase! 
+
+**Thoughts:** I have to stay positive and keep progressing every day. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
