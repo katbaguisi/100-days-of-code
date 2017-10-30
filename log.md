@@ -160,3 +160,11 @@
 **Thoughts:** I have to stay positive and keep progressing every day. 
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 20: October 30, 2017
+
+**Today's Progress**: Got the messaging part working perfectly!!!
+
+**Thoughts:** Very big progress today! Just a little bit more and I'll be done with this app!
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
