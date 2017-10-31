@@ -168,3 +168,11 @@
 **Thoughts:** Very big progress today! Just a little bit more and I'll be done with this app!
 
 **Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
+
+### Day 21: October 31, 2017
+
+**Today's Progress**: Fixed some more bugs/issues with other view controllers that bothered me these past days and started setting up with the Settings page. 
+
+**Thoughts:** Here I go again making things more complicated: I want to make some animations when I don't even know how to. Anyway, I think it's a good idea to list down all the things I think I should improve on so I won't forget them later. 
+
+**Link to work:** [Compatibility App](https://github.com/katbaguisi/CompatibilityApp)
